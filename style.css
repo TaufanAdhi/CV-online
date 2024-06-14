@@ -1,7 +1,14 @@
-@media (min-width:425px) {
+@media (max-width:550px) {
 
     body img {
-        height: 35rem;
-        width: 23rem;
+        height: 30rem;
+        width: 17rem;
+        margin-right: 3rem;
+        margin-left: 7%;
+        margin-top: 10%;
     }
+}
+
+img {
+    margin-left: 30%;
 }
