@@ -1,0 +1,7 @@
+@media (min-width:425px) {
+
+    body img {
+        height: 35rem;
+        width: 23rem;
+    }
+}
